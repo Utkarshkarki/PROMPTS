@@ -1,3 +1,3 @@
 # PROMPTS
-Good Prompts
+Good Prompt
 improve your coding experience with help of prompts, let's make enginnering fun. Let's go
